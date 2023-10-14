@@ -11,6 +11,9 @@ $(document).ready(function() {
     
     menuLink = '<li><a href="#">Cybersecurity</a></li>';
     $('.sidebarMenuInner').append(menuLink);
+
+    menuLink = '<li><a href="https://grcodeclub.github.io/">Greek</a></li>';
+    $('.sidebarMenuInner').append(menuLink);
     
     menuLink = '<li style="height: 200px;"></li>';
     $('.sidebarMenuInner').append(menuLink);
