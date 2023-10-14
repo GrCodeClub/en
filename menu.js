@@ -1,6 +1,6 @@
 $(document).ready(function() {
     
-    var menuLink = ' <li><a href="https://grcodeclub.github.io/network/">Network</a></li>';
+    var menuLink = ' <li><a href="#">Network</a></li>';
     $('.sidebarMenuInner').append(menuLink);
     
     menuLink = '<li><a href="https://grcodeclub.github.io/en/system.html">Operating system</a></li>';
