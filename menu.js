@@ -3,13 +3,13 @@ $(document).ready(function() {
     var menuLink = ' <li><a href="https://grcodeclub.github.io/network/">Network</a></li>';
     $('.sidebarMenuInner').append(menuLink);
     
-    menuLink = '<li><a href="https://grcodeclub.github.io/system/">Operating system</a></li>';
+    menuLink = '<li><a href="https://grcodeclub.github.io/en/system.html">Operating system</a></li>';
     $('.sidebarMenuInner').append(menuLink);
 
-    menuLink = '<li><a href="https://grcodeclub.github.io/programming/">Programming</a></li>';
+    menuLink = '<li><a href="#">Programming</a></li>';
      $('.sidebarMenuInner').append(menuLink);
     
-    menuLink = '<li><a href="https://grcodeclub.github.io/cybersecurity/">Cybersecurity</a></li>';
+    menuLink = '<li><a href="#">Cybersecurity</a></li>';
     $('.sidebarMenuInner').append(menuLink);
     
     menuLink = '<li style="height: 200px;"></li>';
