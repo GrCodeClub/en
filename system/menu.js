@@ -1,0 +1,22 @@
+$(document).ready(function() {
+    var menuLink = ' <li><a href="https://grcodeclub.github.io">Home</a></li>';
+    $('.sidebarMenuInner').append(menuLink);
+    menuLink = '<li><a href="https://grcodeclub.github.io/linux/">Linux</li>';
+    $('.sidebarMenuInner').append(menuLink);
+    menuLink = ' <li><a href="https://grcodeclub.github.io/system/">Operating system</a></li>';
+    $('.sidebarMenuInner').append(menuLink);
+    menuLink = '<li><a href="https://grcodeclub.github.io/linux/post/cmd/network.html">Network commands</li>';
+    $('.sidebarMenuInner').append(menuLink);
+    menuLink = '<li><a href="https://grcodeclub.github.io/linux/post/cmd/system.html">System Commands</li>';
+    $('.sidebarMenuInner').append(menuLink);
+    menuLink = '<li><a href="https://grcodeclub.github.io/linux/post/cmd/file.html">File and Directory Management Commands</li>';
+    $('.sidebarMenuInner').append(menuLink);
+    menuLink = '<li><a href="https://grcodeclub.github.io/linux/post/install.html">Install Programs</li>';
+    $('.sidebarMenuInner').append(menuLink);
+    menuLink = '<li><a href="https://grcodeclub.github.io/linux/post/system_file.html">Files</a></li>';
+    $('.sidebarMenuInner').append(menuLink);
+    menuLink = '<li><a href="https://grcodeclub.github.io/windows">Windows</a></li>';
+    $('.sidebarMenuInner').append(menuLink);
+    menuLink = '<li style="height: 200px;"></li>';
+    $('.sidebarMenuInner').append(menuLink);
+  });
