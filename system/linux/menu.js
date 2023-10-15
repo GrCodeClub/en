@@ -5,18 +5,6 @@ $(document).ready(function() {
     $('.sidebarMenuInner').append(menuLink);
     menuLink = ' <li><a href="https://grcodeclub.github.io/en/system.html">Operating system</a></li>';
     $('.sidebarMenuInner').append(menuLink);
-    menuLink = '<li><a href="#">Network commands</li>';
-    $('.sidebarMenuInner').append(menuLink);
-    menuLink = '<li><a href="#">System Commands</li>';
-    $('.sidebarMenuInner').append(menuLink);
-    menuLink = '<li><a href="#">File and Directory Management Commands</li>';
-    $('.sidebarMenuInner').append(menuLink);
-    menuLink = '<li><a href="#">Install Programs</li>';
-    $('.sidebarMenuInner').append(menuLink);
-    menuLink = '<li><a href="#">Files</a></li>';
-    $('.sidebarMenuInner').append(menuLink);
-    menuLink = '<li><a href="#">Windows</a></li>';
-    $('.sidebarMenuInner').append(menuLink);
     menuLink = '<li style="height: 200px;"></li>';
     $('.sidebarMenuInner').append(menuLink);
   });
