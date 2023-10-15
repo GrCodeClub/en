@@ -7,6 +7,8 @@ $(document).ready(function() {
     $('.sidebarMenuInner').append(menuLink);
     menuLink = '<li><a href="#">Microsoft Windows</li>';
     $('.sidebarMenuInner').append(menuLink);
+    menuLink = '<li><a href="https://grcodeclub.github.io/linux/">Greek</li>';
+    $('.sidebarMenuInner').append(menuLink);
     menuLink = '<li style="height: 200px;"></li>';
     $('.sidebarMenuInner').append(menuLink);
   });
